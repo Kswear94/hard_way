@@ -14,6 +14,7 @@ module Other
 end
 
 class Child
+  
   include Other
 
   def override()

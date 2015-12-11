@@ -6,6 +6,7 @@ class Parent
 end
 
 class Child < Parent
+  
   def override()
     puts "CHILD override()"
   end
